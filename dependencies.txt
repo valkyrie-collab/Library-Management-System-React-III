@@ -1,0 +1,2 @@
+npm install @coral-xyz/anchor @solana/web3.js react-router-dom
+npm install @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-wallets @solana/web3.js @coral-xyz/anchor react-router-dom
